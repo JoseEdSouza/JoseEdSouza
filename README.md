@@ -9,8 +9,10 @@ Salve! My name is José Souza (but you can call me Zé), I'm a software develope
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEdsouza&theme=transparent&show_icons=true&hide_progress=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoseEdSouza/JoseEdSouza/output/github-contribution-grid-snake.svg" />
-</div><br/><br/><br/>
+    <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoseEdSouza/JoseEdSouza/output/github-contribution-grid-snake.svg" />
+    <br/><br/><br/>
+</div>
 
 ## 🛠️ Languages and tools
 
