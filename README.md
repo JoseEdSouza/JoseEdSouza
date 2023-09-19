@@ -4,7 +4,7 @@ Salve! My name is José Souza (but you can call me Zé), I'm a software develope
 
 ## ⚡️ Stats
 
-[![Zé's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEdSouza&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Zé's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEdSouza&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&count_private=true)](https://github.com/JoseEdSouza)
 
 <div align="center">
     <br>
@@ -14,7 +14,7 @@ Salve! My name is José Souza (but you can call me Zé), I'm a software develope
 
 ## 🛠️ Languages and tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEdsouza&theme=transparent&show_icons=true&hide_progress=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEdsouza&theme=transparent&show_icons=true&hide_progress=true&border_radius=10)](https://github.com/JoseEdSouza)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
