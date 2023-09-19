@@ -2,11 +2,13 @@
 
 Salve! My name is José Souza (but you can call me Zé), I'm a software developer from Brazil 🇧🇷️.Currently studying software engineering  🚀. I'm passionate about technology and I'm always looking to learn new things and improve my knowledge.
 
-[![Zé's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEdSouza&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+## ⚡️ Stats
 
-## Languages and tools
+[![Zé's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEdSouza&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEdsouza&theme=transparent&show_icons=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEdsouza&theme=transparent&show_icons=true&hide_progress=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🛠️ Languages and tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,11 +25,11 @@ Salve! My name is José Souza (but you can call me Zé), I'm a software develope
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## Projects
+## 👨‍💻 Projects
 
 here are some projects that I have been working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseEdSouza&repo=finesup&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseEdSouza&repo=finesup&theme=transparent&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 
