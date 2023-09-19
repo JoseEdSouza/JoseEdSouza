@@ -35,7 +35,7 @@ Salve! My name is José Souza (but you can call me Zé), I'm a software develope
 
 here are some projects that I have been working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseEdSouza&repo=finesup&theme=transparent&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseEdSouza&repo=finesup&theme=transparent&border_radius=10)](https://github.com/JoseEdSouza/finesup)
 
 ## 📫 How to reach me
 
