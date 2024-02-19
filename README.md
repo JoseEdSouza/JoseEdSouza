@@ -1,20 +1,22 @@
-# Hello World 👋
+# Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 Salve! My name is José Souza (but you can call me Zé), I'm a software developer from Brazil 🇧🇷️.Currently studying software engineering  🚀. I'm passionate about technology and I'm always looking to learn new things and improve my knowledge.
 
 ## ⚡️ Stats
-
-[![Zé's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEdSouza&show_icons=true&theme=transparent&border_radius=10&count_private=true)](https://github.com/JoseEdSouza/JoseEdSouza)
-
 <div align="center">
-    <br>
+<br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoseEdSouza/JoseEdSouza/output/github-contribution-grid-snake.svg" />
     <br/><br/>
+    
+[![Zé's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEdSouza&show_icons=true&theme=transparent&border_radius=10&count_private=true)](https://github.com/JoseEdSouza/JoseEdSouza)
+    
 </div>
 
 ## 🛠️ Languages and tools
-
+<div align="center">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEdsouza&theme=transparent&show_icons=true&hide_progress=false&border_radius=10&layout=donut-vertical)](https://github.com/JoseEdSouza/JoseEdSouza)
+</div>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
