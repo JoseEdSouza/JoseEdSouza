@@ -1,51 +1,91 @@
-# Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Salve! I'm Zé 🇧🇷 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-Salve! My name is José Souza (but you can call me Zé), I'm a software developer from Brazil 🇧🇷️.Currently studying software engineering  🚀. I'm passionate about technology and I'm always looking to learn new things and improve my knowledge.
+I'm **José Souza** — but everyone calls me **Zé**.  
+A Brazilian Software & Data Engineer focused on clean architectures, reliable pipelines, and thoughtful developer experience.
 
-## ⚡️ Stats
+I work across backend engineering, data workflows, geospatial analytics and AI-driven modeling.  
+I like clarity, performance, maintainability and long-term design.
+
+
+---
+
+## 🧠 What I Do  
+- **Data Engineering:** batch/stream processing, ETL/ELT, feature pipelines.  
+- **Backend Engineering:** Go & Python services with high cohesion and clean architecture.  
+- **AI & Geospatial Modeling:** map matching, trajectory analysis, anomaly detection.  
+- **DevEx & Automation:** internal tooling, CLI design, reproducible environments, CI/CD.
+
+
+---
+
+## 🛠️ Tech Stack
+
+### **Data & Geospatial**
+![Polars](https://img.shields.io/badge/Polars-0A3448?style=flat&logo=polars&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![OSMnx](https://img.shields.io/badge/OSMnx-39477F?style=flat)
+![NetworkX](https://img.shields.io/badge/NetworkX-000000?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### **Backend Engineering**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Gorm](https://img.shields.io/badge/Gorm-7A3E3E?style=flat)
+![UberFX](https://img.shields.io/badge/Uber.FX-000000?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![sqlx](https://img.shields.io/badge/sqlx-0F4C81?style=flat)
+
+---
+
+### **AI & Machine Learning**
+- Trajectory modeling  
+- Map matching (online/offline)  
+- Outlier detection  
+- Feature engineering  
+- Model evaluation & benchmarking  
+- Batch/stream inference  
+- Experiment reproducibility
+
+---
+
+### **Cloud, DevOps & Observability**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+---
+
+## 📚 What I Build
+- Geospatial analytics tools (routing, trajectories, map matching)  
+- Data pipelines (batch/stream, reproducible, performance-focused)  
+- Backend systems (APIs, auth flows, modular architectures)  
+- Developer tooling (CLI tools, automation, internal libraries)
+
+Focused on clarity, reliability and long-term maintainability.
+
+
+---
+
+## 🐍 Contribution Snake
 <div align="center">
-<br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoseEdSouza/JoseEdSouza/output/github-contribution-grid-snake.svg" />
-    <br/><br/>
-    
-[![Zé's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEdSouza&show_icons=true&theme=transparent&border_radius=10&count_private=true)](https://github.com/JoseEdSouza/JoseEdSouza)
-    
+    <img 
+         src="https://raw.githubusercontent.com/JoseEdSouza/JoseEdSouza/output/github-contribution-grid-snake.svg"
+         alt="snake animation"
+    />
 </div>
 
-## 🛠️ Languages and tools
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEdsouza&theme=transparent&show_icons=true&hide_progress=false&border_radius=10&layout=donut-vertical)](https://github.com/JoseEdSouza/JoseEdSouza)
-</div>
+---
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 📫 Contact  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joseedsouza.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jose-souza)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1191439457396740118)
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-![android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-
-## 👨‍💻 Projects
-
-here are some projects that I have been working on:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseEdSouza&repo=finesup&theme=transparent&border_radius=10)](https://github.com/JoseEdSouza/finesup)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseEdSouza&repo=simpletask&theme=transparent&border_radius=10)](https://github.com/JoseEdSouza/simpletask)
-
-## 📫 How to reach me
-
-[![Gmail Badge](https://img.shields.io/badge/-Jose%20Souza-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseedsouza.dev@gmail.com)](mailto:joseedsouza.dev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Jose%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-jose-souza)](https://www.linkedin.com/in/dev-jose-souza)
-[![Discord Badge](https://img.shields.io/badge/-Jose%20Souza-6633cc?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/1191439457396740118)](https://discord.com/users/1191439457396740118)
+Always open to talk about systems design, data engineering, geospatial analytics and developer experience.
